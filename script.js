@@ -45,3 +45,5 @@ function update() {
         next.disabled = false;
     }
 }
+
+// Developed by SeyedMohammadMahdi Kiaei
