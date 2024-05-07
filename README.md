@@ -1,5 +1,5 @@
 # Progress Steps
-This is a mini project, that show where you are in multi level forms or etc.<br/>
+This Progress Steps enhances user experience by providing clear visual cues in multi-level forms and processes, With customizable design elements.<br/>
 Watch Project [Live](https://mohammadkiaei.github.io/Progress-Steps/).
 <br/>
 <br/>
